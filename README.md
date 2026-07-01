@@ -1,10 +1,10 @@
-# Coding Interview Prep Tracker
+Code Log
 #### Video Demo: https://www.youtube.com/watch
 #### Description:
 
 Hey everyone! This is my final project. I'm an 18-year-old student who just finished my Class 12 CBSE exams with Computer Science, and I also recently completed Harvard's CS50P (Introduction to Programming with Python) course online. In Class 12, they taught us all about relational databases, primary keys, and how to interface Python with SQL databases using basic SQL commands. At the same time, CS50P taught me how to write clean, modular Python code, use loops safely, handle exceptions using `try-except` blocks, and work with external pip packages like `fpdf`.
 
-I noticed that a lot of seniors and older students online talk about grinding LeetCode, HackerRank, and Codeforces to prepare for tech interviews. They solve hundreds of problems, but keeping track of everything in a random Excel sheet or a notebook looked super messy. Since I wanted to practice my new programming skills, I decided to combine my Class 12 SQL knowledge with my CS50P Python knowledge to build a real, fully-working **Coding Interview Prep Tracker**! 
+I noticed that a lot of seniors and older students online talk about grinding LeetCode, HackerRank, and Codeforces to prepare for tech interviews. They solve hundreds of problems, but keeping track of everything in a random Excel sheet or a notebook looked super messy. Since I wanted to practice my new programming skills, I decided to combine my Class 12 SQL knowledge with my CS50P Python knowledge to build a real, fully-working **Code Log**! 
 
 It’s a command-line app where you can log every problem you solve. It stores the title, platform, topic, difficulty, and date. It also automatically counts how many total problems you've solved right on the main menu, lets you search by specific topics, and can even export your entire history into a clean PDF report!
 
