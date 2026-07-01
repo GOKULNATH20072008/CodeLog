@@ -1,5 +1,5 @@
 Code Log
-#### Video Demo: https://www.youtube.com/watch
+#### Video Demo: https://www.youtube.com/watch](https://youtu.be/4M_zbwmULmg)
 #### Description:
 
 Hey everyone! This is my final project. I'm an 18-year-old student who just finished my Class 12 CBSE exams with Computer Science, and I also recently completed Harvard's CS50P (Introduction to Programming with Python) course online. In Class 12, they taught us all about relational databases, primary keys, and how to interface Python with SQL databases using basic SQL commands. At the same time, CS50P taught me how to write clean, modular Python code, use loops safely, handle exceptions using `try-except` blocks, and work with external pip packages like `fpdf`.
