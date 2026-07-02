@@ -127,12 +127,12 @@ def export_pdf():
     pdf = FPDF()
     pdf.add_page()
 
-    pdf.set_font("Arial", "B", 16)
-    pdf.cell(0, 10, "Code_Log Report", ln=True)
+    pdf.set_font("Helvetica", "B", 16)
+    pdf.cell(
+        0, 10, "Code_Log Report")
 
     pdf.ln(5)
-
-    pdf.set_font("Arial", size=12)
+    pdf.set_font("Helvetica", size=12)
 
     for row in rows:
         pdf.multi_cell(
@@ -143,7 +143,7 @@ def export_pdf():
             f"Platform: {row[2]}\n"
             f"Topic: {row[3]}\n"
             f"Difficulty: {row[4]}\n"
-            f"Solved Date: {row[5]}\n"
+            f"Solved Date: {row[5]}\n",
         )
         pdf.ln(2)
 
